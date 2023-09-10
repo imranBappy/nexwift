@@ -1,5 +1,6 @@
 {
   "name": "nexwift",
+  "homepage": "https://nexwift-imran-web.onrender.com",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -28,5 +29,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": "14.15.4"
   }
 }
